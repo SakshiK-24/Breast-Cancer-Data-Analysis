@@ -14,7 +14,7 @@ The objective of this project is to identify statistically significant associati
 - Do gender or histology influence tumor stage or patient status?
 
 ## 🔄 Analytics Workflow
-<img src="images/workflow_flowchart.png" width="500" height="500"/>
+<img src="images/workflow_flowchart.png" width="500"/>
 
 ## 📂 Dataset Description (Raw dataset downloaded from Kaggle)
 - Total Records: 334 patients (after cleaning)
