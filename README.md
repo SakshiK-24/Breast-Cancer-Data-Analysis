@@ -14,7 +14,7 @@ The objective of this project is to identify statistically significant associati
 - Do gender or histology influence tumor stage or patient status?
 
 ## 🔄 Analytics Workflow
-![Analytics Workflow](images/Analytics_Flowchart.png)
+<img src="images/Analytics_Flowchart.png" width="500"/>
 
 ## 📂 Dataset Description (Raw dataset downloaded from Kaggle)
 - Total Records: 334 patients (after cleaning)
@@ -57,6 +57,8 @@ The objective of this project is to identify statistically significant associati
 
 ## 📊 Dashboard Preview
 ![Breast Cancer Dashboard](images/Dashboard.png)
+🔗 **Interactive Tableau Dashboard:**  
+https://public.tableau.com/app/profile/sakshi.kamble6871/viz/BreastCancerAnalyticsDashboard_17684046345950/BreastCancerAnalysis
 
 ## 📈 Key Findings & Insights
 - Average patient age: 58.89 years
