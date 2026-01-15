@@ -93,4 +93,11 @@ https://public.tableau.com/app/profile/sakshi.kamble6871/viz/BreastCancerAnalyti
 - Tableau (Interactive Dashboard, Box Plots,Bar Charts, KPIs)
 - Data Analytics (EDA, Feature Engineering, Insight Communication)
 
+## 🗂️ Project Files
+- **BRCA_Raw_Dataset.csv** – Original breast cancer dataset
+- **BRCA_Cleaned_Dataset_Testing.xlsm** – Cleaned Dataset (Power Query), EDA pivot tables, and hypothesis testing
+- **Breast_Cancer_Analysis.twbx** – Interactive Tableau dashboard
+- **Breast_Cancer_Insights_Report.docx** – Detailed analytical report
+- **images/** – Dashboard Previews and Analytics Workflow flowchart used in the README.md
+Note: The Excel analysis file (BRCA_Cleaned_Dataset_Testing.xlsm) is a macro-enabled (.xlsm) workbook and should be opened in Microsoft Excel with macros enabled.
 
