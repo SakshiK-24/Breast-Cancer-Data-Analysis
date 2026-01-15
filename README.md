@@ -21,13 +21,12 @@ The objective of this project is to identify statistically significant associati
 - Granularity: Patient-level clinical data
 - Timeframe: Short-term post-surgery follow-up
 - Purpose: Statistical analysis and insight generation
-
-### ✔️ Key Variables
-- Demographics: Age, Gender  
-- Clinical: Tumor Stage, Histology, Patient Status  
-- Biomarkers: Protein1–Protein4, ER, PR, HER2  
-- Treatment: Surgery Type  
-- Timeline: Surgery Date, Last Visit Date, Follow-up Days
+  ### Key Variables
+        - Demographics: Age, Gender  
+        - Clinical: Tumor Stage, Histology, Patient Status  
+        - Biomarkers: Protein1–Protein4, ER, PR, HER2  
+        - Treatment: Surgery Type  
+        - Timeline: Surgery Date, Last Visit Date, Follow-up Days
 
 ## 🛠 Methodology
 
@@ -36,8 +35,8 @@ The objective of this project is to identify statistically significant associati
 - Removed records with no patient information
 - Retained clinically valid null values
 - Created derived features:
-  - Age Groups
-  - Follow-up Days
+  - Age_Groups
+  - Followup_Days
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
 - Pivot-table-based analysis to understand:
@@ -75,7 +74,7 @@ https://public.tableau.com/app/profile/sakshi.kamble6871/viz/BreastCancerAnalyti
   - Stage II: 189 patients
   - Stage III: 81 patients
 
-### 📶 Statistical Insights
+### 📶 Statistical Insights (Summary)
 - Age is significantly associated with tumor stage
 - HER2 status shows significant association with tumor stage
 - Protein1 expression varies significantly across surgery types
