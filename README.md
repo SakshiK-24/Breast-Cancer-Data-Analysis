@@ -55,7 +55,7 @@ The objective of this project is to identify statistically significant associati
 - Interactive filters for deeper exploration
 
 ## 📊 Dashboard Preview
-![Breast Cancer Dashboard](images/Dashboard.png)
+![Breast Cancer Dashboard](images/Dashboardf.png)
 🔗 **Interactive Tableau Dashboard:**  
 https://public.tableau.com/app/profile/sakshi.kamble6871/viz/BreastCancerAnalyticsDashboard_17684046345950/BreastCancerAnalysis
 
